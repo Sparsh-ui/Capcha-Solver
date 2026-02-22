@@ -1,10 +1,20 @@
+# Capcha Solver
+
+A CNN-based Chrome extension that detects and auto-fills CAPTCHA fields using a trained deep learning model.
+
+## Features
+- Automatic CAPTCHA detection
+- Auto-fill functionality
+- Customizable for other websites
+- Uses TensorFlow/Keras model
+- 
 # Chrome Extension Setup Guide
 
 ## How to Load the Extension
 1.  Open Chrome and navigate to `chrome://extensions`.
 2.  Enable **Developer mode** (toggle in the top right corner).
 3.  Click **Load unpacked**.
-4.  Select the folder `d:\Coding\peojects\capcha1`.
+4.  Select the extracted project folder (the Capcha-Solver folder you downloaded from GitHub).
 
 ## How to Test
 1.  Drag and drop the file `test_captcha.html` into Chrome to open it.
