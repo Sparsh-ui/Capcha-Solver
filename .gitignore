@@ -1,0 +1,6 @@
+fix.py
+fix2.py
+fix_paths.py
+diff.txt
+__pycache__/
+*.pyc
